@@ -1,5 +1,6 @@
 # fast-api
 
+### Python 3.6+, pip required
 
 ### pip install -r requirements.txt
 
